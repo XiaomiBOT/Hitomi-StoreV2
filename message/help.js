@@ -148,7 +148,7 @@ ${readmore}
  • ${prefix}sewa *add/del*
  
  *THANKS TO*
- ➢ Christian ID
+ ➢ Rangga ID
  ➢ Nc Tech
  ➢ Irfan / Riyan
 `
